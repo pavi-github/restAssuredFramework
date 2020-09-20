@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4323" started-at="2020-09-20T20:10:12 BST" finished-at="2020-09-20T20:10:16 BST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4323" started-at="2020-09-20T20:10:12 BST" finished-at="2020-09-20T20:10:16 BST">
+      <class name="getRequest.GetData">
+        <test-method status="PASS" signature="getLocation()[pri:0, instance:getRequest.GetData@1dfe2924]" name="getLocation" duration-ms="3882" started-at="2020-09-20T20:10:12 BST" finished-at="2020-09-20T20:10:16 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLocation -->
+        <test-method status="PASS" signature="responseTime()[pri:0, instance:getRequest.GetData@1dfe2924]" name="responseTime" duration-ms="176" started-at="2020-09-20T20:10:16 BST" finished-at="2020-09-20T20:10:16 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseTime -->
+        <test-method status="PASS" signature="testResponseCode()[pri:0, instance:getRequest.GetData@1dfe2924]" name="testResponseCode" duration-ms="170" started-at="2020-09-20T20:10:16 BST" finished-at="2020-09-20T20:10:16 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponseCode -->
+      </class> <!-- getRequest.GetData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
